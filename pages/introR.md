@@ -9,8 +9,7 @@ permalink: introR.html
 folder: introR
 ---
   
-# Introduction to R: For Absolute Beginners  
-  
+ 
 ## Why Use R?  
   
 If you currently use another statistical package (SPSS, SAS, Stata, ect.), why learn R?  
