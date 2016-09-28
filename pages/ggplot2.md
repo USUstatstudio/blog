@@ -1,5 +1,5 @@
 ---
-title: Data Visualization: Easily Exploring Your Data in R Using ggplot2
+title: Data Visualization - Easily Exploring Your Data in R Using ggplot2
 keywords:
 last_updated: Sept 28, 2016
 tags: 
