@@ -20,11 +20,8 @@ entries:
       output: pdf
       type: frontmatter
       
-  - title: About the StatStudio
-    url: /Statstudio_about.html
-    output: web, pdf      
 
-  - title: All about R
+- title: All about R
     output: web, pdf
     folderitems:
 
