@@ -9,7 +9,6 @@ permalink: ggplot2.html
 folder: ggplot2
 ---
 
-
 ## Why Use ggplot2 in R?
 
 The first step to any data analysis project should be to explore your data.  The easiest and fastest way to do this is through graphics.  Although you can create plots in many programs including base R, the ggplot2 package is fairly quick to learn and makes life easier in at least ten ways (see Many Mejia’s post with examples)
@@ -38,3 +37,5 @@ The first step to any data analysis project should be to explore your data.  The
 
 Participants should have some basic familiarity in R (R-Studio) and have the software running on the laptop they bring to this workshop.  Completion of the Stat Studio “Intro to R: For Absolute Beginners” workshop held last November is sufficient.  IF you missed it you can find all the materials at http://cehs.usu.edu/research/Stat Studio/intro2r or there are many other similar resources online.  
 Download the following packages from CRAN:  ggplot2, dplyr, tidyr, reshape2
+
+{% include links.html %}
