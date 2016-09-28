@@ -1,8 +1,8 @@
 ---
 title: Data Visualization: Easily Exploring Your Data in R Using ggplot2
-keywords: R, ggplot2
+keywords:
 last_updated: Sept 28, 2016
-tags: [R]
+tags: 
 summary: "The first step to any data analysis project should be to explore your data.  The easiest and fastest way to do this is through graphics."
 sidebar: main_sidebar
 permalink: ggplot2.html
