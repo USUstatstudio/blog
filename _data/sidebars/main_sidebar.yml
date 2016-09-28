@@ -23,15 +23,15 @@ entries:
     folderitems:
 
     - title: Introduction to R
-      url: /mydoc_introR.html
+      url: /introR.html
       output: web, pdf
       
     - title: Data Wrangling
-      url: /mydoc_wrangle.html
+      url: /wrangle.html
       output: web, pdf
 
     - title: Plotting with ggplot2
-      url: /mydoc_ggplot2.html
+      url: /ggplot2.html
       output: web, pdf
 
 
@@ -40,9 +40,9 @@ entries:
     folderitems:
 
     - title: Review OLS regression
-      url: /mydoc_MLM_revOLS.html
+      url: /MLM_revOLS.html
       output: web, pdf
 
     - title: Pre-Plotting
-      url: /mydoc_MLM_preplot.html
+      url: /MLM_preplot.html
       output: web, pdf
