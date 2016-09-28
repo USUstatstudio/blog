@@ -9,7 +9,7 @@ permalink: introR.html
 folder: introR
 ---
   
-## Introduction to R: For Absolute Beginners  
+# Introduction to R: For Absolute Beginners  
   
 ## Why Use R?  
   
