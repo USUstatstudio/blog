@@ -9,7 +9,8 @@ summary: Resources to help with quantitative research.
 
 ## What is the StatStudio
 
-The Statistical Consulting Studio  provides support to CEHS faculty and graduate students.  More information about the [StatStudio](http://cehs.usu.edu/research/statstudio/index) is available online.
+The Statistical Consulting Studio  provides support to CEHS faculty and graduate students.  
+More information about the [StatStudio](http://cehs.usu.edu/research/statstudio/index) is available online.
 
 ## What is on this blog?
 
