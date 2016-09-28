@@ -1,20 +1,18 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: 
+- title: sidebar
   product: Online Resources
   folders:
   
   - title:
     output: pdf
     type: frontmatter
-    folderitems:
-    
+    folderitems:    
     - title:
       url: /titlepage
       output: pdf
-      type: frontmatter
-      
+      type: frontmatter      
     - title:
       url: /tocpage
       output: pdf
