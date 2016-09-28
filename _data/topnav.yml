@@ -20,12 +20,8 @@ topnav_dropdowns:
           external_url: https://twitter.com/USU_StatStudio
         - title: LinkedIn
           external_url: https://www.linkedin.com/groups/7052281/profile
-    - title: Workshop Sessions
-      folderitems:
-        - title: Intro to R
-          url: /introR_workshop_page.html
-        - title: Graphics: ggplot2
-          url: /ggplot2_workshop_page.html          
+       
+          
     - title: Quantitative Topics
       folderitems:
         - title: Intro to R
