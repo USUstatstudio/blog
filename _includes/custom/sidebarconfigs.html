@@ -1,17 +1,14 @@
-{% if page.sidebar == "home_sidebar" %}
-{% assign sidebar = site.data.sidebars.home_sidebar.entries %}
-
-{% elsif page.sidebar == "Multilevel Models" %}
+{% if page.sidebar == "Multilevel Models" %}
 {% assign sidebar = site.data.sidebars.MLM_sidebar.entries %}
 
 {% elsif page.sidebar == "Intro to R" %}
 {% assign sidebar = site.data.sidebars.introR_sidebar.entries %}
 
-{% elsif page.sidebar == "mydoc_sidebar" %}
+{% elsif page.sidebar == "main_sidebar" %}
 {% assign sidebar = site.data.sidebars.mydoc_sidebar.entries %}
 
 {% else %}
-{% assign sidebar = site.data.sidebars.home_sidebar.entries %}
+{% assign sidebar = site.data.sidebars.main_sidebar.entries %}
 {% endif %}
 
 
@@ -19,10 +16,6 @@
 {% comment %}
 sidebar configuration for print files
 {% endcomment %}
-
-{% if site.product == "home_sidebar" %}
-{% assign sidebar_pdf = site.data.sidebars.home_sidebar.entries %}
-{% endif %}
 
 {% if site.product == "Multilevel Models" %}
 {% assign sidebar_pdf = site.data.sidebars.MLM_sidebar.entries %}
