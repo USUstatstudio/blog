@@ -3,7 +3,7 @@ title: Data Visualization: Easily Exploring Your Data in R Using ggplot2
 keywords: R, ggplot2
 last_updated: Sept 28, 2016
 tags: [R]
-summary: "ggplot2"
+summary: "The first step to any data analysis project should be to explore your data.  The easiest and fastest way to do this is through graphics."
 sidebar: main_sidebar
 permalink: ggplot2.html
 folder: ggplot2
@@ -11,7 +11,7 @@ folder: ggplot2
 
 ## Why Use ggplot2 in R?
 
-The first step to any data analysis project should be to explore your data.  The easiest and fastest way to do this is through graphics.  Although you can create plots in many programs including base R, the ggplot2 package is fairly quick to learn and makes life easier in at least ten ways (see Many Mejia’s post with examples)
+Although you can create plots in many programs including base R, the ggplot2 package is fairly quick to learn and makes life easier in at least ten ways:
 
 * Flexibility: It can do quick-and-dirty AND complex plots, so you only need one system
 * Handsome default settings: the default colors & other aesthetics are nice…much better than Excel
