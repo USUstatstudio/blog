@@ -1,11 +1,11 @@
-{% if page.sidebar == "Multilevel Models" %}
+{% if page.sidebar == "main_sidebar" %}
+{% assign sidebar = site.data.sidebars.main_sidebar.entries %}
+
+{% elsif page.sidebar == "Multilevel Models" %}
 {% assign sidebar = site.data.sidebars.MLM_sidebar.entries %}
 
 {% elsif page.sidebar == "Intro to R" %}
 {% assign sidebar = site.data.sidebars.introR_sidebar.entries %}
-
-{% elsif page.sidebar == "main_sidebar" %}
-{% assign sidebar = site.data.sidebars.mydoc_sidebar.entries %}
 
 {% else %}
 {% assign sidebar = site.data.sidebars.main_sidebar.entries %}
