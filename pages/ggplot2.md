@@ -25,17 +25,4 @@ The first step to any data analysis project should be to explore your data.  The
 * The documentation and support is great
 
 
-## What you will be able to do after this workshop
-
-* Change the structure of your data frame to make certain plot s possible. The reshape2 packages make it quick to move form “wide form” (i.e. “flat”) to “long form” (also known as a dynaset).
-* Create plots for 1, 2, 3, or more variables at a time using the ggplot2
-* Use another variable to subset, color, or facet (break into panels) the plot.
-* Change or add titles, labels, legends, and themes.
-* Save a plot as a pdf, jpeg, png, bmp, or other type of file, including changing the size and resolution.
-
-## Required Prerequisite
-
-Participants should have some basic familiarity in R (R-Studio) and have the software running on the laptop they bring to this workshop.  Completion of the Stat Studio “Intro to R: For Absolute Beginners” workshop held last November is sufficient.  IF you missed it you can find all the materials at http://cehs.usu.edu/research/Stat Studio/intro2r or there are many other similar resources online.  
-Download the following packages from CRAN:  ggplot2, dplyr, tidyr, reshape2
-
 {% include links.html %}
