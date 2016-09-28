@@ -22,9 +22,9 @@ topnav_dropdowns:
           external_url: https://www.linkedin.com/groups/7052281/profile
        
           
-    - title: Quantitative Topics
+    - title: Topics
       folderitems:
-        - title: Intro to R
+        - title: Using R
           url: /introR_landing_page.html
         - title: Multilevel Modeling
           url: /MLM_landing_page.html
