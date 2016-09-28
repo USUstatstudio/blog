@@ -9,7 +9,7 @@ summary: Matterials to help with quantitative research.
 
 ## What is the Stat Studio
 
-More information about the [StatStudio](http://cehs.usu.edu/research/statstudio/index)is available online.
+More information about the [StatStudio](http://cehs.usu.edu/research/statstudio/index) is available online.
 
 ## What is on this blog?
 
