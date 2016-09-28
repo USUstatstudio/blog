@@ -1,5 +1,5 @@
 ---
-title: Graphics with ggplot2
+title: Data Visualization: Easily Exploring Your Data in R Using ggplot2
 keywords: R, ggplot2
 last_updated: Sept 28, 2016
 tags: [R]
@@ -9,7 +9,6 @@ permalink: ggplot2.html
 folder: ggplot2
 ---
 
-# Data Visualization: Easily Exploring Your Data in R Using ggplot2
 
 ## Why Use ggplot2 in R?
 
