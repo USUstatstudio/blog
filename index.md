@@ -1,5 +1,5 @@
 ---
-title: StatStudio: Online Tutorials
+title: StatStudio Online Resources
 keywords: homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
