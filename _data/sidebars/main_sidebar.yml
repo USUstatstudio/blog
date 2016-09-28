@@ -20,10 +20,7 @@ entries:
       output: pdf
       type: frontmatter
 
-      
-- title: About the SatStudio
-  url: /Statstudio_about.html
-  output: web, pdf            
+       
 
 - title: All about R
     output: web, pdf
@@ -42,7 +39,7 @@ entries:
       output: web, pdf
 
 
-  - title: Multilevel Modeling
+  - title: Multilevel Modeling (PSY 7650)
     output: web, pdf
     folderitems:
 
