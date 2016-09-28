@@ -2,7 +2,7 @@
 title: StatStudio Online Resources
 keywords: homepage
 tags: [getting_started]
-sidebar: mydoc_sidebar
+sidebar: main_sidebar
 permalink: index.html
 summary: Matterials to help with quantitative research.
 ---
