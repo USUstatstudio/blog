@@ -17,10 +17,22 @@ entries:
       url: /tocpage
       output: pdf
       type: frontmatter
+      
+      
 
-  - title: About the StatStudio
-    url: /Statstudio_about.html
-    output: web, pdf       
+  - title: The StatStudio
+    output: web, pdf 
+    folderitems:   
+    
+    - title: About Us
+      url: /Statstudio_about.html
+      output: web, pdf
+      
+    - title: The Consultants
+      url: /staff.html
+      output: web, pdf
+      
+  
 
   - title: All about R
     output: web, pdf
