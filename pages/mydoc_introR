@@ -1,0 +1,14 @@
+---
+title: Introduction to R
+keywords: R
+last_updated: Sept 28, 2016
+tags: [R]
+summary: "intro R"
+sidebar: mydoc_sidebar
+permalink: mydoc_introR.html
+folder: mydoc
+---
+
+What in the heck is R?
+
+{% include links.html %}
