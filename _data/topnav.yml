@@ -10,23 +10,19 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Resources
+    - title: StatStudio
       folderitems:
-        - title: Github Repo
-          external_url: https://github.com/tomjohnson1492/documentation-theme-jekyll
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
-    - title: Products
+        - title: USU CEHS website
+          external_url: https://cehs.usu.edu/StatStudio
+        - title: Facebook
+          external_url: https://m.facebook.com/USU-CEHS-Statistical-Consulting-Studio-1727604284182903/?ref=bookmarks
+        - title: Twitter
+          external_url: https://twitter.com/USU_StatStudio
+        - title: LinkedIn
+          external_url: https://www.linkedin.com/groups/7052281/profile
+    - title: Quantitative Topics
       folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
+        - title: Intro to R
+          url: /introR_landing_page.html
+        - title: Multilevel Modeling
+          url: /MLM_landing_page.html
