@@ -4,7 +4,7 @@ entries:
 - title: 
   product: Online Resources
   folders:
-
+  
   - title:
     output: pdf
     type: frontmatter
@@ -19,7 +19,11 @@ entries:
       url: /tocpage
       output: pdf
       type: frontmatter
+
       
+- title: About the SatStudio
+  url: /Statstudio_about.html
+  output: web, pdf            
 
 - title: All about R
     output: web, pdf
