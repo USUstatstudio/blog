@@ -4,7 +4,7 @@ keywords: homepage
 tags: [StatStudio]
 sidebar: main_sidebar
 permalink: index.html
-summary: Matterials to help with quantitative research.
+summary: Resources to help with quantitative research.
 ---
 
 ## What is the Stat Studio
