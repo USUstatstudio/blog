@@ -25,4 +25,4 @@ Although you can create plots in many programs including base R, the ggplot2 pac
 * The documentation and support is great
 
 
-{% include links.html %}
+
