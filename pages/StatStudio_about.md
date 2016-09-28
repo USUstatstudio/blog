@@ -8,6 +8,7 @@ sidebar: mydoc_sidebar
 permalink: StatStudio_about.html
 folder: mydoc
 ---
+
 The Statistical Consulting Studio *(formerly known as the OMDS)* provides support to **CEHS faculty and graduate students** in the form of:  
 * individualized appointments
 * small group training
