@@ -1,4 +1,4 @@
-    ---
+---
 title: Finch Text Chapter 3 example of 2 level models
 keywords: 
 last_updated: Sept 29, 2016
