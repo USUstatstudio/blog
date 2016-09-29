@@ -6,7 +6,7 @@ tags:
 summary: "MLMs (also known as hierarchical linear models, nested data models, mixed models, random coefficient, random-effects models, random parameter models, or split-plot designs) are statistical models of parameters that vary at more than one level."
 sidebar: main_sidebar
 permalink: MLM.html
-folder: MLMinR
+folder: mlm
 ---
 
 ## What are Multilevel Models?
