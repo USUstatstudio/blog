@@ -10,8 +10,6 @@ permalink: services.html
 folder: StatStudio
 ---
 
-The Statistical Consulting Studio *(formerly known as the OMDS)* provides support to **CEHS faculty and graduate students**.
-
 ## Three Formats for Collaboration  
 
 * Individualized appointments    
