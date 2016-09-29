@@ -13,37 +13,34 @@ The Statistical Consulting Studio *(formerly known as the OMDS)* provides suppor
 
 ## Three Formats for Collaboration  
 
-* individualized appointments
-* small group training
-* methodological workshops  
+### Individualized appointments
+### Small group training
+### Methodological workshops  
 
-### Early Planning
+## Early Planning Advice
 
 * power analysis 
 * sampling issues
 * data management  
-* and more...
 
-### General Guidance
+## General Guidance
 
 * identifying appropriate quantitative analysis 
 * implementation of statistical tests 
 * interpretation of results
 * generating graphical displays  
-* and more...
 
-### Specific Services
+## Specific Services
 
 * review methods and results sections of publications and grants
+* repond to reviewers concerns
 
-
-## Software Support
+## Some of the Software Supported
 
 * SPSS 
 * R  
 * GPower
 * Mplus  
-* and more...
 
 
 
