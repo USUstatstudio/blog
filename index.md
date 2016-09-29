@@ -15,7 +15,7 @@ More information about the [StatStudio](http://cehs.usu.edu/research/statstudio/
 
 ## What is on this blog?
 
-Matterials produced by statistical consultants at the StatStudio
+Materials produced by statistical consultants at the StatStudio
 
 * College-wide Workshops
 * Small group training sessions
