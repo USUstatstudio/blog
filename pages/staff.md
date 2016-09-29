@@ -5,6 +5,7 @@ last_updated: Sept 28, 2016
 tags: 
 summary: "Trained professionals to help you tackel your research"
 sidebar: main_sidebar
+toc: false
 permalink: staff.html
 folder: StatStudio
 ---
