@@ -1,10 +1,10 @@
-title: Data Wrangling
+title: Multilevel Models
 keywords: 
 last_updated: Sept 28, 2016
 tags: 
-summary: "Multilevel models (also known as hierarchical linear models, nested data models, mixed models, random coefficient, random-effects models, random parameter models, or split-plot designs) are statistical models of parameters that vary at more than one level."
+summary: "MLMs (also known as hierarchical linear models, nested data models, mixed models, random coefficient, random-effects models, random parameter models, or split-plot designs) are statistical models of parameters that vary at more than one level."
 sidebar: main_sidebar
-permalink: MLM_revOLS.html
+permalink: MLM.html
 folder: MLMinR
 ---
 
