@@ -40,7 +40,7 @@ The Statistical Consulting Studio *(formerly known as the OMDS)* provides suppor
 * review methods and results sections of publications and grants
 * repond to reviewers concerns
 
-### Some of the Software Supported
+## Some of the Software Supported
 
 * SPSS 
 * R  
