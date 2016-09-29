@@ -6,7 +6,7 @@ tags:
 summary: "Easily Exploring Your Data in R Using ggplot2"
 sidebar: main_sidebar
 permalink: ggplot2.html
-folder: ggplot2
+folder: useR
 ---
 
 ## Why Use ggplot2 in R?
