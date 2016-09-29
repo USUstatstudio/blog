@@ -13,9 +13,12 @@ The Statistical Consulting Studio *(formerly known as the OMDS)* provides suppor
 
 ## Three Formats for Collaboration  
 
-### Individualized appointments
-### Small group training
-### Methodological workshops  
+### Individualized appointments    
+
+### Small group training    
+
+### Methodological workshops     
+
 
 ## Early Planning Advice
 
