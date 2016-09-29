@@ -66,3 +66,7 @@ entries:
     - title: Pre-Plotting
       url: /MLM_preplot.html
       output: web, pdf
+
+    - title: Finch Text ch3 example
+      url: /Finch_ch3_Fit_2_Levels.html
+      output: web, pdf
