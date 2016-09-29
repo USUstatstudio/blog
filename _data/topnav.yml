@@ -13,25 +13,31 @@ topnav_dropdowns:
   
     - title: StatStudio
       folderitems:
+      
         - title: USU CEHS website
           external_url: https://cehs.usu.edu/StatStudio
+          
         - title: Facebook
           external_url: https://m.facebook.com/USU-CEHS-Statistical-Consulting-Studio-1727604284182903/?ref=bookmarks
+          
         - title: Twitter
           external_url: https://twitter.com/USU_StatStudio
+          
         - title: LinkedIn
           external_url: https://www.linkedin.com/groups/7052281/profile
-       
-- title: Topnav dropdowns
-  folders:          
-    - title: External Websites
+         
+    - title: External 
       folderitems:
+      
         - title: G Power
           external_url: http://www.gpower.hhu.de
+          
         - title: UCLA IDRE
           external_url: http://www.ats.ucla.edu/stat
+          
         - title: How to Stats
           external_url: http://www.how2stats.net/p/home.html
+          
         - title: The Analysis Factor
           external_url: http://www.theanalysisfactor.com
           
