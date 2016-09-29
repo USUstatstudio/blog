@@ -11,7 +11,7 @@ folder: StatStudio
 ---
 
 Full details, request forms, and appointments available at:
-www.cehs.usu.edu/StatStudio
+[www.cehs.usu.edu/StatStudio]
 
 ## Three Formats for Collaboration  
 
