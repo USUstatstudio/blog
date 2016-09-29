@@ -1,5 +1,5 @@
 ---
-title: USU CEHS StatStudio Online Resources
+title: StatStudio Online Resources
 keywords: homepage
 tags: [StatStudio]
 sidebar: main_sidebar
