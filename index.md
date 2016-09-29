@@ -3,6 +3,7 @@ title: StatStudio Online Resources
 keywords: homepage
 tags: [StatStudio]
 sidebar: main_sidebar
+toc: false
 permalink: index.html
 summary: Resources to help with quantitative research.
 ---
