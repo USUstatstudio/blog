@@ -4,9 +4,9 @@ keywords:
 last_updated: Sept 28, 2016
 tags: 
 summary: "About me"
-sidebar: mydoc_sidebar
+sidebar: main_sidebar
 permalink: StatStudio_about.html
-folder: mydoc
+folder: StatStudio
 ---
 
 The Statistical Consulting Studio *(formerly known as the OMDS)* provides support to **CEHS faculty and graduate students** in the form of:  
