@@ -10,7 +10,8 @@ permalink: services.html
 folder: StatStudio
 ---
 
-Full details, request forms, and appointments available at:
+Full details, request forms, and appointments available at:   
+
 [www.cehs.usu.edu/StatStudio]
 
 ## Three Formats for Collaboration  
