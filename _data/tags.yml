@@ -1,12 +1,7 @@
 allowed-tags:
-  - getting_started
-  - content_types
-  - navigation
-  - formatting
-  - publishing
-  - single_sourcing
-  - special_layouts
-  - collaboration
-  - news
-  - troubleshooting
-  - mobile
+  - R
+  - data wrangling
+  - graphcis
+  - ggplot2
+  - OLS linear regression
+  - Multilevel Models (MLM)
