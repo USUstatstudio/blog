@@ -20,25 +20,27 @@ The Statistical Consulting Studio *(formerly known as the OMDS)* provides suppor
 ### Methodological workshops     
 
 
-## Early Planning Advice
+## Consultation at Every Phase
+
+### Early Planning Advice
 
 * power analysis 
 * sampling issues
 * data management  
 
-## General Guidance
+### General Guidance
 
 * identifying appropriate quantitative analysis 
 * implementation of statistical tests 
 * interpretation of results
 * generating graphical displays  
 
-## Specific Services
+### Specific Services
 
 * review methods and results sections of publications and grants
 * repond to reviewers concerns
 
-## Some of the Software Supported
+### Some of the Software Supported
 
 * SPSS 
 * R  
