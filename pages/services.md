@@ -9,32 +9,42 @@ permalink: services.html
 folder: StatStudio
 ---
 
-The Statistical Consulting Studio *(formerly known as the OMDS)* provides support to **CEHS faculty and graduate students** in the form of:  
+The Statistical Consulting Studio *(formerly known as the OMDS)* provides support to **CEHS faculty and graduate students**.
+
+## Three Formats for Collaboration  
 
 * individualized appointments
 * small group training
 * methodological workshops  
 
-Ideally, assistance begins early in research planning and study design with advice regarding:
+### Early Planning
 
 * power analysis 
 * sampling issues
 * data management  
+* and more...
 
-Guidance is available for:
+### General Guidance
 
 * identifying appropriate quantitative analysis 
 * implementation of statistical tests 
 * interpretation of results
 * generating graphical displays  
+* and more...
 
-A wide range of software is supported, including:
+### Specific Services
+
+* review methods and results sections of publications and grants
+
+
+## Software Support
 
 * SPSS 
 * R  
 * GPower
 * Mplus  
+* and more...
 
-Consultants may also review methods and results sections of publications and grants. 
+
 
 
