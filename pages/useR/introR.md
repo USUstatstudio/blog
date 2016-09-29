@@ -6,7 +6,7 @@ tags: [R]
 summary: "R is a free software environment for statistical computing and graphics"
 sidebar: main_sidebar
 permalink: introR.html
-folder: introR
+folder: useR
 ---
   
 ## Why Use R?  
