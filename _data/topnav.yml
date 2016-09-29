@@ -25,7 +25,7 @@ topnav_dropdowns:
     - title: External Websites
       folderitems:
         - title: G-Power
-          external_url: /http://www.gpower.hhu.de
+          external_url: http://www.gpower.hhu.de
         - title: UCLA - IDRE
           external_url: http://www.ats.ucla.edu/stat
         - title: How-to-Stats
