@@ -55,8 +55,12 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: What is a MLM?
+      url: /MLM.html
+      output: web, pdf
+
     - title: Review OLS regression
-      url: /MLM_revOLS.html
+      url: /OLS_review.html
       output: web, pdf
 
     - title: Pre-Plotting
