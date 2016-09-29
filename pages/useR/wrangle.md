@@ -6,7 +6,7 @@ tags:
 summary: "You tell that data who's the boss!"
 sidebar: main_sidebar
 permalink: wrangle.html
-folder: introR
+folder: useR
 ---
 
 ## The Tidyverser and WHY its such a big deal
