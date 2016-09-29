@@ -5,6 +5,7 @@ last_updated: Sept 28, 2016
 tags: 
 summary: "CEHS faculty and graduate students are eligible for free quanitiative and methodological assistance"
 sidebar: main_sidebar
+toc: false
 permalink: services.html
 folder: StatStudio
 ---
@@ -20,20 +21,20 @@ The Statistical Consulting Studio *(formerly known as the OMDS)* provides suppor
 
 ## Consultation at Every Phase
 
-### Early Planning Advice
+Early Planning Advice:
 
 * power analysis 
 * sampling issues
 * data management  
 
-### General Guidance
+General Guidance:
 
 * identifying appropriate quantitative analysis 
 * implementation of statistical tests 
 * interpretation of results
 * generating graphical displays  
 
-### Specific Services
+Specific Services:
 
 * review methods and results sections of publications and grants
 * repond to reviewers concerns
@@ -47,4 +48,3 @@ The Statistical Consulting Studio *(formerly known as the OMDS)* provides suppor
 
 
 
-test
