@@ -1,8 +1,8 @@
 ---
-title: About the Stat Studio
-keywords: USU, statistics, quantitative methods
+title: Services
+keywords: 
 last_updated: Sept 28, 2016
-tags: [getting_started]
+tags: 
 summary: "About me"
 sidebar: mydoc_sidebar
 permalink: StatStudio_about.html
@@ -10,6 +10,7 @@ folder: mydoc
 ---
 
 The Statistical Consulting Studio *(formerly known as the OMDS)* provides support to **CEHS faculty and graduate students** in the form of:  
+
 * individualized appointments
 * small group training
 * methodological workshops  
