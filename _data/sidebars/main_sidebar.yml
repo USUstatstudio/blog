@@ -51,7 +51,7 @@ entries:
       output: web, pdf
 
 
-  - title: Multilevel Modeling (PSY 7650)
+  - title: Multilevel Modeling
     output: web, pdf
     folderitems:
 
