@@ -8,19 +8,6 @@ sidebar: main_sidebar
 permalink: Finch_ch3_Fit_2_Levels.html
 folder: mlm
 ---
-
-# Knits APA style documents (from GitHub, not CRAN)
-    library("papaja")       
-
-    # Pander is the middle-man between R markdown and LaTe
-    library("pander")
-    panderOptions("table.split.table", Inf)
-    panderOptions("round", 2)
-    panderOptions("keep.trailing.zeros", TRUE)
-    panderOptions("table.emphasize.rownames", FALSE)
-    panderOptions("table.alignment.rownames", "left")
-    panderOptions("missing", "")
-
     # work smarter, not harder with the tidyverse
     library("tidyverse")    # loads the CORE packages
     library("magrittr")     # more pipe operators to code easier
@@ -52,11 +39,9 @@ folder: mlm
     library("sjPlot")       # Plotting lme4 results
     library("mlmRev")       # example datasets for multilevel models
 
-<!-- ========================================================= -->
-The `Achieve` Dataset
-=====================
 
-<!-- ========================================================= -->
+## The `Achieve` Dataset
+
 The datasets for this textbook may be downloaded from the website:
 <http://www.mlminr.com/data-sets/>. I was unable to find any
 documentation on this dataset in the book or online, so I contacted the
@@ -80,11 +65,10 @@ did point me to *(although the samples sizes do not match up)*.
                            factor(labels = c("12-17", "18-21", 
                                              "22-26", ">26")))
 
-<!-- ========================================================= -->
-Sample Structure
-----------------
 
-<!-- ========================================================= -->
+
+### Sample Structure
+
 It is obvious that the sample is hiarchical in nature. The nesting
 starts with `students` (level 1) nested within `class` (level 2), which
 are further nested within `school` (level 3), `corp` (level 4), and
