@@ -10,6 +10,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
+  
     - title: StatStudio
       folderitems:
         - title: USU CEHS website
@@ -21,7 +22,8 @@ topnav_dropdowns:
         - title: LinkedIn
           external_url: https://www.linkedin.com/groups/7052281/profile
        
-          
+- title: Topnav dropdowns
+  folders:          
     - title: External Websites
       folderitems:
         - title: G Power
