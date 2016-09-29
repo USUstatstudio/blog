@@ -3,7 +3,7 @@ title: Services
 keywords: 
 last_updated: Sept 28, 2016
 tags: 
-summary: "About me"
+summary: "CEHS faculty and graduate students are eligible for free quanitiative and methodological assistance"
 sidebar: main_sidebar
 permalink: StatStudio_about.html
 folder: StatStudio
@@ -37,4 +37,4 @@ A wide range of software is supported, including:
 
 Consultants may also review methods and results sections of publications and grants. 
 
-{% include links.html %}
+
