@@ -5,7 +5,7 @@ last_updated: Sept 28, 2016
 tags: 
 summary: "CEHS faculty and graduate students are eligible for free quanitiative and methodological assistance"
 sidebar: main_sidebar
-permalink: StatStudio_about.html
+permalink: services.html
 folder: StatStudio
 ---
 
