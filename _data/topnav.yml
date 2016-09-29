@@ -25,11 +25,11 @@ topnav_dropdowns:
     - title: External Websites
       folderitems:
         - title: G-Power
-          url: /http://www.gpower.hhu.de/
+          external_url: /http://www.gpower.hhu.de
         - title: UCLA - IDRE
-          url: http://www.ats.ucla.edu/stat/
+          external_url: http://www.ats.ucla.edu/stat
         - title: How-to-Stats
-          url: http://www.how2stats.net/p/home.html
+          external_url: http://www.how2stats.net/p/home.html
         - title: The Analysis Factor
-          url: http://www.theanalysisfactor.com/
+          external_url: http://www.theanalysisfactor.com
           
