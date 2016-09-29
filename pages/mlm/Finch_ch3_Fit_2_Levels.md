@@ -1,4 +1,15 @@
-    # Knits APA style documents (from GitHub, not CRAN)
+    ---
+title: Finch Text Chapter 3 example of 2 level models
+keywords: 
+last_updated: Sept 29, 2016
+tags: 
+summary: "testing"
+sidebar: main_sidebar
+permalink: Finch_ch3_Fit_2_Levels.html
+folder: mlm
+---
+
+# Knits APA style documents (from GitHub, not CRAN)
     library("papaja")       
 
     # Pander is the middle-man between R markdown and LaTe
