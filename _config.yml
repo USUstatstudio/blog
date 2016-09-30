@@ -51,9 +51,11 @@ kramdown:
  auto_ids: true
  hard_wrap: false
  syntax_highlighter: rouge
-kramdown:
- math_engine: mathjax
 # filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
+
+katex:
+    path_to_js: "./your/path/to/katex/js"
+# added 9-30-16 to use jekyll-katex-block
 
 collections:
   tooltips:
