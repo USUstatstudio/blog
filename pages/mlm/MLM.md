@@ -8,18 +8,7 @@ sidebar: main_sidebar
 permalink: MLM.html
 folder: mlm
 ---
-test 
 
-{% include katex_import.html %}  
-again
-
-katex.render("c = \\pm\\sqrt{a^2 + b^2}", element);
-
-
-{% raw %}
-<!-- The Normal Distribution -->
-<div class="equation" data-expr="\displaystyle P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}}"></div>
-{% endraw %}
 
 
 ## What are Multilevel Models?
@@ -30,16 +19,4 @@ Multilevel models are particularly appropriate for research designs where data f
 
 Multilevel models can be used on data with many levels, although 2-level models are the most common and the rest of this article deals only with these. The dependent variable must be examined at the lowest level of analysis
 
-<script type="text/javascript">
 
-    // grab all elements in DOM with the class 'equation'
-    var tex = document.getElementsByClassName("equation");
-
-    // for each element, render the expression attribute
-    Array.prototype.forEach.call(tex, function(el) {
-        katex.render(el.getAttribute("data-expr"), el);
-    });
-
-</script>
-
-{% include katex_render.html %} 
