@@ -11,6 +11,10 @@ folder: mlm
 test 
 
 {% include katex_import.html %}  
+again
+
+katex.render("c = \\pm\\sqrt{a^2 + b^2}", element);
+
 
 {% raw %}
 <!-- The Normal Distribution -->
