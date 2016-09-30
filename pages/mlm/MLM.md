@@ -18,7 +18,7 @@ testing again...yet again
 
 {% latex %} E = mc^2 {% endlatex %}
 
-center?
+center? for sure this time
 
 {% latex centred %} E = mc^2 {% endlatex %}
 
