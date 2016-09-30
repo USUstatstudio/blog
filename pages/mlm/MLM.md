@@ -9,7 +9,7 @@ permalink: MLM.html
 folder: mlm
 ---
 
-{% include katex_import.html %} 
+{% include katex_import.html %}  
 
 {% raw %}
 <!-- The Normal Distribution -->
