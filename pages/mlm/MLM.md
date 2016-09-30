@@ -8,6 +8,9 @@ sidebar: main_sidebar
 permalink: MLM.html
 folder: mlm
 ---
+
+{% include katex_import.html %} 
+
 {% raw %}
 <!-- The Normal Distribution -->
 <div class="equation" data-expr="\displaystyle P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}}"></div>
@@ -34,3 +37,4 @@ Multilevel models can be used on data with many levels, although 2-level models 
 
 </script>
 
+{% include katex_render.html %} 
