@@ -400,10 +400,11 @@ to prefer this display over `stargazer()`.
 
 
 ### Estimate ICC
-
+<div>
 $$
 \rho = \frac{\sigma^2_{u0}}{\sigma^2\{u0} + \sigma^2_e}
 $$
+</div>
 
     extract the random term's variance-covariance estimates 
     fit_read_0re_VarCorr <- fit_read_0re %>% VarCorr %>% data.frame
