@@ -18,7 +18,7 @@ testing again...yet again
 
 {% latex %} E = mc^2 {% endlatex %}
 
-center? for sure this time
+not happening :(
 
 {% latex centred %} E = mc^2 {% endlatex %}
 
