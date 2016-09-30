@@ -14,7 +14,7 @@ module Jekyll
             end
 
             # Config defaults
-            PATH_TO_JS = "./public/js/katex.min.js"
+            PATH_TO_JS = "./js/katex.min.js"
 
             def render(context)
                 # Take config from global `_config.yml', if it exists
