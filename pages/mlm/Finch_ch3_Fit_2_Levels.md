@@ -8,6 +8,9 @@ sidebar: main_sidebar
 permalink: Finch_ch3_Fit_2_Levels.html
 folder: mlm
 ---
+
+## Load the Packages required for this example script
+
     # work smarter, not harder with the tidyverse
     library("tidyverse")    # loads the CORE packages
     library("magrittr")     # more pipe operators to code easier
@@ -41,6 +44,8 @@ folder: mlm
 
 
 ## The `Achieve` Dataset
+
+### Description
 
 The datasets for this textbook may be downloaded from the website:
 <http://www.mlminr.com/data-sets/>. I was unable to find any
@@ -112,16 +117,11 @@ levels: **students** are the units on which the outcome is measured and
 
 There are 10320 pupils nested within 160 schools.
 
-<!-- ========================================================= -->
-Summarize Descriptive Statistics
-================================
 
-<!-- ========================================================= -->
-<!-- ========================================================= -->
-Using `stargazer()` from the `stargazer` package
-------------------------------------------------
+## Summarize Descriptive Statistics
 
-<!-- ========================================================= -->
+### Using `stargazer()` from the `stargazer` package
+
 Most posters, journal articles, and reports start with a table of
 descriptive statistics. Since it tends to come first, this type of table
 is often refered to as *Table 1*. The `stargazer()` function can be used
@@ -153,11 +153,10 @@ age & 10,320 & 107.529 & 5.060 & 82 & 135 \\
 \end{tabular} 
 \end{table}
 
-<!-- ========================================================= -->
-Using `table1()` from the `furniture` package
----------------------------------------------
+### Using `table1()` from the `furniture` package
 
-<!-- ========================================================= -->
+
+
 Our colleages Tyson Barrett and Emily Brignone have authored the
 **furniture** package which is now available on CRAN (Barrett and
 Brignone 2016). It includes the extremely useful function `table1()`[1]
@@ -178,7 +177,6 @@ executing `?furniture::table1`.
            caption        = "Compare pupils, by genders")  # title
 
 \begin{table}
-
 \caption{Compare pupils, by genders}
 \centering
 \begin{tabular}[t]{lrrr}
@@ -197,16 +195,11 @@ Age (in months) &  &  & <.001\\
 \end{tabular}
 \end{table}
 
-<!-- ========================================================= -->
-Visually Exploring the Data
-===========================
 
-<!-- ========================================================= -->
-<!-- ========================================================= -->
-Level One Plots: Disaggregate or ignore higher levels
------------------------------------------------------
+## Visually Exploring the Data
 
-<!-- ========================================================= -->
+### Level One Plots: Disaggregate or ignore higher levels
+
 For a first look, its useful to plot all the data points on a single
 scatterplot as displayed in Figure . Due to the large sample size, many
 points end up being plotted on top of or very near each other
@@ -229,11 +222,9 @@ the hexigons convey the number of points at that location (Wickham
 ![Association between vocabulary and reading scores
 ](Finch_ch3_Fit_2_Levels_files/figure-markdown_strict/unnamed-chunk-6-1.png)
 
-<!-- ========================================================= -->
-Multilevel plots: illustrate two nested levels
-----------------------------------------------
 
-<!-- ========================================================= -->
+### Multilevel plots: illustrate two nested levels
+
 Up to this point, all investigation of this dataset has been only at the
 pupil level and any nesting or clustering within schools has been
 ignored. Plotting is a good was to start to get an idea of the
@@ -309,11 +300,8 @@ as seen in Figure .
 line per school, divided by SES median split and class size
 ](Finch_ch3_Fit_2_Levels_files/figure-markdown_strict/unnamed-chunk-9-1.png)
 
-<!-- ========================================================= -->
-Disaggregating: with `lm()` in Base R
--------------------------------------
+### Disaggregating: with `lm()` in Base R
 
-<!-- ========================================================= -->
     # linear model - ignores school (for reference only)
     fit_read_lm_0 <- lm(formula = geread ~ 1,   
                     data    = achieve)
@@ -348,16 +336,10 @@ RMSE        & 2.3319         \\
 \end{table}
 As is seen in table we can see...
 
-<!-- ========================================================= -->
-Fitting Multilevel Models
-=========================
+## Fitting Multilevel Models
 
-<!-- ========================================================= -->
-<!-- ========================================================= -->
-Step 1) No Explanatory variables - random intercepts
-----------------------------------------------------
+### Step 1) No Explanatory variables - random intercepts
 
-<!-- ========================================================= -->
 A so called *Empty Model* only includes random intercepts. No
 independent variables are involved, other the grouping or clustering
 variable that designates how *level 1* units are nested within *level 2*
@@ -416,13 +398,14 @@ over stating the significance of associations. This table was made with
 the `texreg()` function in the self named package (Leifeld 2013). I tend
 to prefer this display over `stargazer()`.
 
+
 ### Estimate ICC
 
 $$
-\\rho = \\frac{\\sigma^2\_{u0}}{\\sigma^2\_{u0} + \\sigma^2\_e}
+\rho = \frac{\sigma^2_{u0}}{\sigma^2\{u0} + \sigma^2_e}
 $$
 
-    # extract the random term's variance-covariance estimates 
+    extract the random term's variance-covariance estimates 
     fit_read_0re_VarCorr <- fit_read_0re %>% VarCorr %>% data.frame
     fit_read_0re_VarCorr %>% apa_table(caption = "M0: variance-covariance matrix",
                                        placement = "h!")
