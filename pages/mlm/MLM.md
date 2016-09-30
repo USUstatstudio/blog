@@ -13,6 +13,7 @@ folder: mlm
 
 Multilevel models (also known as hierarchical linear models, nested data models, mixed models, random coefficient, random-effects models, random parameter models, or split-plot designs) are statistical models of parameters that vary at more than one level. An example could be a model of student performance that contains measures for individual students as well as measures for classrooms within which the students are grouped. These models can be seen as generalizations of linear models (in particular, linear regression), although they can also extend to non-linear models. These models became much more popular after sufficient computing power and software became available.
 
+why won't it work!
 
 \\[ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} \\]
 
