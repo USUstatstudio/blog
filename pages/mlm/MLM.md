@@ -8,6 +8,7 @@ sidebar: main_sidebar
 permalink: MLM.html
 folder: mlm
 ---
+test 
 
 {% include katex_import.html %}  
 
