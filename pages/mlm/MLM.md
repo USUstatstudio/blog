@@ -21,3 +21,16 @@ Multilevel models (also known as hierarchical linear models, nested data models,
 Multilevel models are particularly appropriate for research designs where data for participants are organized at more than one level (i.e., nested data). The units of analysis are usually individuals (at a lower level) who are nested within contextual/aggregate units (at a higher level). While the lowest level of data in multilevel models is usually an individual, repeated measurements of individuals may also be examined. As such, multilevel models provide an alternative type of analysis for univariate or multivariate analysis of repeated measures. Individual differences in growth curves may be examined (see growth model). Furthermore, multilevel models can be used as an alternative to ANCOVA, where scores on the dependent variable are adjusted for covariates (i.e., individual differences) before testing treatment differences. Multilevel models are able to analyze these experiments without the assumptions of homogeneity-of-regression slopes that is required by ANCOVA.
 
 Multilevel models can be used on data with many levels, although 2-level models are the most common and the rest of this article deals only with these. The dependent variable must be examined at the lowest level of analysis
+
+<script type="text/javascript">
+
+    // grab all elements in DOM with the class 'equation'
+    var tex = document.getElementsByClassName("equation");
+
+    // for each element, render the expression attribute
+    Array.prototype.forEach.call(tex, function(el) {
+        katex.render(el.getAttribute("data-expr"), el);
+    });
+
+</script>
+
