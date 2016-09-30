@@ -9,7 +9,9 @@ permalink: MLM.html
 folder: mlm
 ---
 
+testing
 
+{% latex %} E = mc^2 {% endlatex %}
 
 ## What are Multilevel Models?
 
